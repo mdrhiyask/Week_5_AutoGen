@@ -1,0 +1,20 @@
+{
+    "type": "AssistantAgentState", 
+    "version": "1.0.0", 
+    "llm_context": 
+    {"messages": 
+    [
+        {
+           "content": "Remember that my favourite number is 7.", 
+           "source": "user", 
+           "type": "UserMessage"
+        }, 
+        {
+            "content": "Got it! Your favorite number is 7. If there's anything else you'd like me to remember or help with, just let me know!", 
+            "thought": null, 
+            "source": "assistant", 
+            "type": "AssistantMessage"
+        }
+    ]
+    }
+}
